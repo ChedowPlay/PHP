@@ -1,0 +1,7 @@
+Exercício 1 
+Faça um algoritmo que recebe um número inteiro, escreva o mês correspondente a  este número ou a mensagem “mês inválido” . 
+Exercício 2 
+Modele uma classe chamada Aluno. Essa classe deverá ter os seguintes atributos:  nome, sexo, nota1, nota2.  
+Crie métodos para:  
+- calcular a média aritmética (fazer um cálculo com nota1 e nota2 para verificar a média aritmética) 
+- verificar aprovacao (utilizar if para verificar se a média é maior ou igual a 6), - verificar conceito (retornar: A-nota entre 9 e 10 B- nota entre 8 e 8.9 C- nota entre 6 e 7.9 e D-0 a 5.9) 
